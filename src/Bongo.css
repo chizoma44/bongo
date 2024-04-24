@@ -1,12 +1,13 @@
 .App {
   border-radius: 4px;
   box-shadow: #ccc 5px 5px 5px;
-  width: 500px;
-  height: 500px;
+  width: 400px;
+  height: 400px;
 }
 
 form {
-  padding-top: 60px;
+  padding-top: 40px;
+  padding-bottom: 10px;
 }
 .search-form-input {
   font-size: 23px;
