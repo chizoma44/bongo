@@ -1,0 +1,16 @@
+.App {
+  border-radius: 4px;
+  box-shadow: #ccc 5px 5px 5px;
+  width: 500px;
+  height: 500px;
+}
+
+form {
+  padding-top: 60px;
+}
+.search-form-input {
+  font-size: 23px;
+}
+ul {
+  font-size: 23px;
+}
