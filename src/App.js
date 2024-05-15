@@ -5,9 +5,11 @@ import GitHubRepo from "./GitHubRepo";
 function App() {
   return (
     <div className="App">
-      <Bongo />
+      <div className="container">
+        <Bongo />
 
-      <GitHubRepo />
+        <GitHubRepo />
+      </div>
     </div>
   );
 }

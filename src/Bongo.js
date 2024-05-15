@@ -39,7 +39,12 @@ export default function Bongo() {
         placeholder="Type a City..."
         onChange={updateCity}
       />
-      <input className="search-form-input" type="submit" value="Search" />
+      <button className="btn btn-primary" type="submit" value="">
+        Search
+      </button>
+      <button className="btn btn-success" type="submit" value="">
+        Current
+      </button>
     </form>
   );
 
