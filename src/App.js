@@ -1,14 +1,10 @@
-import Bongo from "./Bongo";
-import "./Bongo.css";
-import GitHubRepo from "./GitHubRepo";
+import Weather from "./Weather";
 
 function App() {
   return (
     <div className="App">
       <div className="container">
-        <Bongo />
-
-        <GitHubRepo />
+        <Weather />
       </div>
     </div>
   );

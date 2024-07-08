@@ -1,0 +1,28 @@
+.Weather {
+  border: 1p solid red;
+  align-items: center;
+  width: 1000px;
+}
+.Weather p {
+  color: blue;
+  word-spacing: 25px;
+}
+.dateLi {
+  margin-left: -30px;
+}
+.imageLi {
+  margin-left: -30px;
+}
+.temp {
+  font-size: 55px;
+  position: absolute;
+}
+.units {
+  float: right;
+}
+ul {
+  list-style: none;
+}
+footer {
+  padding-top: 50px;
+}
